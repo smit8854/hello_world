@@ -1,2 +1,5 @@
 x <- c(1:10)
-mean(x)
+mean_x <- mean(x)
+
+y<- c(1:100)
+median <- median(y)
